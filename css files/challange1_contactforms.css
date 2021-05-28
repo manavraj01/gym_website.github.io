@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    
+}
+h1{
+    background-color: rgb(255, 129, 83);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+    border : rgba(165, 42, 42, 0.829) 2px solid;
+    border-radius: 8px;
+    color : white;
+   
+}
+div{
+    background-color: rgb(255, 129, 83);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color:  white !important;
+    border: rgb(165,42,42,0.829) 2px solid;
+    border-radius: 8px;
+    text-align: left;
+
+
+
+}
+input[type="submit"]{
+    border: rgb(165,42,42,0.829) 2px solid;
+    border-radius: 8px;
+    color : white;
+    background-color: rgb(255, 129, 83);
+}
+body{
+    margin-left : 35%;
+    margin-top : 30px;
+    margin-bottom: 20px;
+    text-align: center;
+    margin-right:60%;
+    width: 500px;
+
+}
+.container{
+    background-color:peachpuff;
+}
+

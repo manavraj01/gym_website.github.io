@@ -1,0 +1,67 @@
+header{
+    background-color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 2ex;
+    text-align: center;
+    text-decoration:underline;
+    font-size: 50px;
+    font-weight: 100;
+    font-family:cursive;
+    
+}
+.special_text{
+    text-align: justify;
+    margin: 2px;
+    padding: 12px;
+    color:black;
+    font-size: 30px;
+    font-weight: bold;
+    background-image:url("background_1.jpg");
+    background-color: mediumvioletred;
+    text-shadow: 2px 2px red;;
+    
+}
+nav{
+    background-position: center;
+    background-color:white;
+    padding : 20px;
+    
+}
+.Image{
+   padding:20px;
+ border:10px solid black;
+    margin : 10px;
+    outline-style :dotted;
+    outline-color: white;
+    outline-offset: 15px; /* helps to give space between the outline and border */
+}
+nav p{
+    font-size: 30px;
+    padding : 3px;
+   background-color : grey;
+}
+table,th,tr,td{
+    border-collapse: collapse;
+    border-spacing: 3px;
+    padding : 10px;
+    
+}
+th{
+    background-color: magenta;
+}
+td{
+    background-color: maroon;
+}
+nav a:link,a:visited{
+    background-color: red;
+    color : white;
+    padding : 14px 25px;
+    text-align: center;
+    display: inline-block;
+
+}
+nav a:hover,a:active{
+    background-color:purple;
+
+
+}

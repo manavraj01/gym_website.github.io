@@ -1,0 +1,32 @@
+.container{
+    background-color: rgba(137, 78, 192, 0.589);
+    padding : 18px;
+    margin : 34px auto;
+    border : 4px solid black; 
+}
+#items{
+
+    border-collapse: separate;
+    box-sizing: border-box;
+}
+.fruits{
+    border : 8px solid rgb(216, 78, 78);
+    padding: 10px 6px;
+    float : left;
+    width : 48%;
+}
+.computer{
+    border : 8px solid  rgb(216, 78, 78);
+    padding: 10px 6px;
+    float : left;
+    width : 48%;
+}
+.food{
+    border : 8px solid  rgb(216, 78, 78);
+    clear : left;
+}
+h1{
+    text-align: center;
+    background-color: rosybrown;
+    font-weight: bolder;
+}

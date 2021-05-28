@@ -1,0 +1,17 @@
+ul{
+    margin : 0px;
+    padding : 0px;
+    width:200px;
+    list-style-type: none;
+    background-color: grey ;
+
+}
+li a{
+    text-decoration: none;
+    color : white;
+    font-size: 30px;
+
+}
+.active{
+    background-color: gr
+}
